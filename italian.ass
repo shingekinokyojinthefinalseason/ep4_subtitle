@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.24,0:00:02.23,Default,,0,0,0,,Falco?
+Dialogue: 0,0:00:03.33,0:00:04.98,Default,,0,0,0,,Dove stai andando a quest'ora?
+Dialogue: 0,0:00:05.62,0:00:07.02,Default,,0,0,0,,Ho dimenticato una cosa.
+Dialogue: 0,0:00:07.19,0:00:09.73,Default,,0,0,0,,Stavo tornando al quartier generale\Nper riprenderla.
+Dialogue: 0,0:00:10.17,0:00:11.24,Default,,0,0,0,,Con permesso!
+Dialogue: 0,0:00:17.14,0:00:17.99,Default,,0,0,0,,Falco.
+Dialogue: 0,0:00:18.55,0:00:20.16,Default,,0,0,0,,Vorrei chiederti un piacere.
+Dialogue: 0,0:00:20.51,0:00:22.62,Default,,0,0,0,,Di cosa si tratta, signor Kruger?
+Dialogue: 0,0:00:23.73,0:00:25.83,Default,,0,0,0,,Vorrei spedire una lettera...
+Dialogue: 0,0:00:26.44,0:00:29.96,Default,,0,0,0,,Ma come sai, la corrispondenza del\Ndistretto d'internamento è controllata.
+Dialogue: 0,0:00:30.13,0:00:31.38,Default,,0,0,0,,Sì, in effetti...
+Dialogue: 0,0:00:31.56,0:00:34.55,Default,,0,0,0,,Così scoprirebbero subito\Nche mi sto fingendo malato.
+Dialogue: 0,0:00:34.72,0:00:37.72,Default,,0,0,0,,Quindi potresti imbucarla\Nin una cassetta all'esterno del distretto?
+Dialogue: 0,0:00:37.90,0:00:38.97,Default,,0,0,0,,Va bene.
+Dialogue: 0,0:00:39.45,0:00:40.85,Default,,0,0,0,,È per la sua famiglia?
+Dialogue: 0,0:00:41.37,0:00:42.27,Default,,0,0,0,,Sì...
+Dialogue: 0,0:00:42.74,0:00:46.44,Default,,0,0,0,,Voglio solo far sapere\Nche sono qui e sto bene.
+Dialogue: 0,0:02:21.99,0:02:27.00,Default,,0,0,0,,DA MANO A MANO
+Dialogue: 0,0:02:32.06,0:02:33.88,Default,,0,0,0,,Ehi, cos'è tutto questo trambusto?
+Dialogue: 0,0:02:34.05,0:02:37.01,Default,,0,0,0,,La famiglia Tybur\Nci ha onorati di una visita!
+Dialogue: 0,0:02:37.17,0:02:38.59,Default,,0,0,0,,Cosa?
+Dialogue: 0,0:02:42.76,0:02:44.89,Default,,0,0,0,,Questi non sono soldati di Marley,
+Dialogue: 0,0:02:45.05,0:02:47.81,Default,,0,0,0,,ma guardie private della famiglia Tybur.
+Dialogue: 0,0:02:49.00,0:02:49.89,Default,,0,0,0,,Prego.
+Dialogue: 0,0:02:51.54,0:02:53.36,Default,,0,0,0,,Mi dispiace per la visita improvvisa.
+Dialogue: 0,0:02:53.52,0:02:56.90,Default,,0,0,0,,Io sono l'attuale\Ncapofamiglia dei Tybur, Willy.
+Dialogue: 0,0:02:57.30,0:03:00.28,Default,,0,0,0,,Theo Magath,\Ncomandante dell'Unità Guerrieri.
+Dialogue: 0,0:03:00.61,0:03:03.99,Default,,0,0,0,,È un onore poterla incontrare,\Nsignor Tybur.
+Dialogue: 0,0:03:04.16,0:03:06.33,Default,,0,0,0,,Piacere, comandante Magath.
+Dialogue: 0,0:03:06.52,0:03:10.54,Default,,0,0,0,,Mi permetta di presentarle\Nla famiglia Tybur.
+Dialogue: 0,0:03:10.73,0:03:13.17,Default,,0,0,0,,Adesso smettetela!
+Dialogue: 0,0:03:17.19,0:03:20.59,Default,,0,0,0,,Lei ha un controllo senza precedenti\Nsull'Unità Guerrieri.
+Dialogue: 0,0:03:20.75,0:03:25.18,Default,,0,0,0,,È già riuscito a capire chi tra noi\Nsia il possessore del Gigante Martello?
+Dialogue: 0,0:03:25.42,0:03:27.89,Default,,0,0,0,,No, non ne ho la minima idea.
+Dialogue: 0,0:03:28.05,0:03:31.39,Default,,0,0,0,,In realtà non sono nemmeno sicuro\Nche sia qui tra noi.
+Dialogue: 0,0:03:32.83,0:03:35.44,Default,,0,0,0,,Lei è molto prudente,\Ncome dicono le voci.
+Dialogue: 0,0:03:36.21,0:03:38.07,Default,,0,0,0,,Però sì, è qui.
+Dialogue: 0,0:03:38.82,0:03:41.82,Default,,0,0,0,,Il Gigante Martello è uno di noi.
+Dialogue: 0,0:03:48.14,0:03:51.21,Default,,0,0,0,,Sono venuto qui\Nper osservare la statua di Helos,
+Dialogue: 0,0:03:51.77,0:03:55.92,Default,,0,0,0,,l'effigie eroica dell'uomo che 100 anni fa\Nha sconfitto il demonio della terra.
+Dialogue: 0,0:03:56.10,0:04:00.92,Default,,0,0,0,,Helos è l'orgoglio di Marley,\Nl'eroe salvatore del mondo.
+Dialogue: 0,0:04:01.84,0:04:03.51,Default,,0,0,0,,È davvero magnifico...
+Dialogue: 0,0:04:03.86,0:04:06.97,Default,,0,0,0,,Coraggioso, splendido e invincibile.
+Dialogue: 0,0:04:07.37,0:04:10.31,Default,,0,0,0,,Una vera e propria incarnazione\Ndello spirito marleyano.
+Dialogue: 0,0:04:10.48,0:04:12.52,Default,,0,0,0,,Sì, è proprio come dice.
+Dialogue: 0,0:04:12.67,0:04:14.98,Default,,0,0,0,,Dopotutto, l'interno\Ndella statua di bronzo è vuoto.
+Dialogue: 0,0:04:16.54,0:04:19.15,Default,,0,0,0,,Lei è davvero crudele, comandante.
+Dialogue: 0,0:04:19.54,0:04:23.74,Default,,0,0,0,,Gira voce che lei voglia reintrodurre la\Ncoscrizione obbligatoria per i marleyani.
+Dialogue: 0,0:04:23.95,0:04:28.49,Default,,0,0,0,,Per il popolo marleyano la guerra\Nesiste solo negli articoli dei giornali.
+Dialogue: 0,0:04:28.97,0:04:32.75,Default,,0,0,0,,Per loro è comodo, basta leggere carta\Nstampata e la loro nazione si espande.
+Dialogue: 0,0:04:33.27,0:04:34.79,Default,,0,0,0,,Ancora meglio\Nse a farsi sparare addosso
+Dialogue: 0,0:04:34.96,0:04:39.38,Default,,0,0,0,,sono esclusivamente i discendenti\Ndel demonio o popoli di nazioni sconfitte.
+Dialogue: 0,0:04:40.06,0:04:44.88,Default,,0,0,0,,Purtroppo, anche se i marleyani sentissero\Ni proiettili sfiorare le loro orecchie,
+Dialogue: 0,0:04:45.07,0:04:50.14,Default,,0,0,0,,questa nazione continuerebbe a cercare\Nla guerra fino alla propria rovina.
+Dialogue: 0,0:04:53.49,0:04:57.52,Default,,0,0,0,,Vorrei proprio dire una cosa a chiunque\Ncontrolli Marley da dietro le quinte.
+Dialogue: 0,0:04:57.69,0:04:59.65,Default,,0,0,0,,Ormai è troppo tardi.
+Dialogue: 0,0:05:01.25,0:05:05.66,Default,,0,0,0,,Lei è davvero senza pietà, comandante.\NCosì mi mette in difficoltà.
+Dialogue: 0,0:05:06.17,0:05:10.16,Default,,0,0,0,,Come ha già capito, questa nazione\Nè sotto il controllo dei Tybur.
+Dialogue: 0,0:05:11.01,0:05:14.37,Default,,0,0,0,,Però sono stati i marleyani stessi\Na portare Marley
+Dialogue: 0,0:05:14.54,0:05:16.67,Default,,0,0,0,,sulla strada del militarismo.
+Dialogue: 0,0:05:17.07,0:05:21.92,Default,,0,0,0,,Noi gli abbiamo solo dato potere e libertà\Ncome nostra personale espiazione.
+Dialogue: 0,0:05:22.32,0:05:26.09,Default,,0,0,0,,Alla fine, sia Eldia che Marley\Nsono state scagliate nell'oscurità.
+Dialogue: 0,0:05:26.26,0:05:28.72,Default,,0,0,0,,La responsabilità di tutto ciò\Nè dei Tybur.
+Dialogue: 0,0:05:29.30,0:05:34.18,Default,,0,0,0,,Durante il festival, voglio rivelare\Nla verità a tutto il mondo.
+Dialogue: 0,0:05:34.83,0:05:37.48,Default,,0,0,0,,Non mentivo quando ho detto\Nche sono venuto qui a osservare la statua.
+Dialogue: 0,0:05:37.64,0:05:41.19,Default,,0,0,0,,Marley avrà bisogno\Ndi un nuovo eroe.
+Dialogue: 0,0:05:41.58,0:05:43.07,Default,,0,0,0,,Theo Magath.
+Dialogue: 0,0:05:43.59,0:05:46.45,Default,,0,0,0,,Lei è disposto a stringere la mia mano?
+Dialogue: 0,0:05:57.14,0:05:58.62,Default,,0,0,0,,Buongiorno, Pokko.
+Dialogue: 0,0:06:00.69,0:06:02.88,Default,,0,0,0,,Pieck?! Che accidenti stai facendo?!
+Dialogue: 0,0:06:03.21,0:06:07.38,Default,,0,0,0,,Mi viene più naturale camminare così.\NTi ho spaventato?
+Dialogue: 0,0:06:08.49,0:06:11.14,Default,,0,0,0,,Cammina su due piedi\Ncome le persone normali...
+Dialogue: 0,0:06:11.95,0:06:14.10,Default,,0,0,0,,Loro hanno imparato\Nche i Giganti arrivano da sud,
+Dialogue: 0,0:06:14.25,0:06:19.44,Default,,0,0,0,,quindi la sorveglianza è minore verso\Nle montagne sul lato nord delle mura.
+Dialogue: 0,0:06:19.60,0:06:21.90,Default,,0,0,0,,Quindi ci conviene attaccare da nord?
+Dialogue: 0,0:06:22.23,0:06:24.03,Default,,0,0,0,,Potrebbe essere un buon piano.
+Dialogue: 0,0:06:24.19,0:06:27.61,Default,,0,0,0,,Tuttavia, il molo è l'unico posto\Nin cui possiamo far attraccare
+Dialogue: 0,0:06:27.78,0:06:29.53,Default,,0,0,0,,le nostre navi più grandi.
+Dialogue: 0,0:06:29.92,0:06:31.70,Default,,0,0,0,,Se vogliamo sfruttare i nostri mezzi...
+Dialogue: 0,0:06:31.88,0:06:33.62,Default,,0,0,0,,Quindi è meglio da sud?
+Dialogue: 0,0:06:33.78,0:06:35.29,Default,,0,0,0,,Non direi...
+Dialogue: 0,0:06:35.44,0:06:37.37,Default,,0,0,0,,La scomparsa delle navi da ricognizione
+Dialogue: 0,0:06:37.54,0:06:39.92,Default,,0,0,0,,significa che il nemico\Nsta sorvegliando la zona.
+Dialogue: 0,0:06:40.07,0:06:42.17,Default,,0,0,0,,C'è la possibilità\Nche anche il molo sia stato distrutto...
+Dialogue: 0,0:06:42.52,0:06:45.00,Default,,0,0,0,,Insomma, dove vuoi arrivare?
+Dialogue: 0,0:06:45.17,0:06:48.76,Default,,0,0,0,,Io vi sto solo fornendo\Ntutte le informazioni in mio possesso.
+Dialogue: 0,0:06:48.93,0:06:50.55,Default,,0,0,0,,Ho capito, basta così.
+Dialogue: 0,0:06:50.78,0:06:54.06,Default,,0,0,0,,Siamo stati degli sciocchi\Na far parlare un eldiano.
+Dialogue: 0,0:06:58.70,0:07:01.81,Default,,0,0,0,,L'operazione Paradis\Nsta procedendo alla grande.
+Dialogue: 0,0:07:01.97,0:07:05.32,Default,,0,0,0,,Siamo fortunati\Nad avere superiori tanto brillanti.
+Dialogue: 0,0:07:05.75,0:07:08.69,Default,,0,0,0,,Non vedo l'ora di sentire\Ni dettagli del loro piano.
+Dialogue: 0,0:07:08.85,0:07:13.62,Default,,0,0,0,,Per esempio, decideranno di affidare\Ntutta l'operazione a quattro bambini?
+Dialogue: 0,0:07:20.39,0:07:21.87,Default,,0,0,0,,L'ha sorpassata...
+Dialogue: 0,0:07:22.27,0:07:24.00,Default,,0,0,0,,Falco ha sorpassato Gabi!
+Dialogue: 0,0:07:28.90,0:07:31.30,Default,,0,0,0,,Tutto quel casino\Nper aver vinto una volta sola...
+Dialogue: 0,0:07:31.48,0:07:34.39,Default,,0,0,0,,Non hanno la minima idea\Ndei problemi che abbiamo.
+Dialogue: 0,0:07:34.68,0:07:37.89,Default,,0,0,0,,Ormai è inutile che Falco\Nmigliori la sua valutazione.
+Dialogue: 0,0:07:38.07,0:07:40.27,Default,,0,0,0,,Gabi rimane comunque la favorita.
+Dialogue: 0,0:07:41.39,0:07:43.65,Default,,0,0,0,,Avete visto lo scatto alla fine?!
+Dialogue: 0,0:07:44.00,0:07:46.52,Default,,0,0,0,,Ehi marmocchi,\Ncome mai siete così allegri?
+Dialogue: 0,0:07:46.82,0:07:49.03,Default,,0,0,0,,Falco ha battuto Gabi\Nper la prima volta!
+Dialogue: 0,0:07:49.21,0:07:51.03,Default,,0,0,0,,Ma dai, nei voti?
+Dialogue: 0,0:07:51.21,0:07:53.49,Default,,0,0,0,,No, l'ha solo battuta nella corsa!
+Dialogue: 0,0:07:53.66,0:07:55.78,Default,,0,0,0,,Questa è un'impresa storica!
+Dialogue: 0,0:07:56.13,0:07:59.12,Default,,0,0,0,,Dai, smettetela, è imbarazzante...
+Dialogue: 0,0:07:59.31,0:08:03.42,Default,,0,0,0,,Sei stato grande!\NQuindi ora sarai tu il prossimo Corazzato!
+Dialogue: 0,0:08:03.75,0:08:05.75,Default,,0,0,0,,Che male!
+Dialogue: 0,0:08:05.92,0:08:09.05,Default,,0,0,0,,Ormai è troppo tardi\Nper farmi concorrenza!
+Dialogue: 0,0:08:09.21,0:08:12.38,Default,,0,0,0,,Io ho contribuito al bene della patria\Ncon le mie imprese in guerra!
+Dialogue: 0,0:08:13.69,0:08:15.22,Default,,0,0,0,,Sì, hai ragione.
+Dialogue: 0,0:08:16.11,0:08:19.93,Default,,0,0,0,,Però l'esercito non ha ancora annunciato\Nchi erediterà il Corazzato.
+Dialogue: 0,0:08:20.09,0:08:23.39,Default,,0,0,0,,Fino a quel giorno,\Nio farò ciò che devo.
+Dialogue: 0,0:08:25.46,0:08:29.23,Default,,0,0,0,,Ah, vuole proprio fare il figo...
+Dialogue: 0,0:08:29.39,0:08:32.28,Default,,0,0,0,,Tuo fratello è già\Nil successore del Bestia!
+Dialogue: 0,0:08:32.45,0:08:34.36,Default,,0,0,0,,Diventerete marleyani onorari\Nin ogni caso!
+Dialogue: 0,0:08:34.53,0:08:37.07,Default,,0,0,0,,Perché ti stai impegnando tanto?!
+Dialogue: 0,0:08:42.25,0:08:43.71,Default,,0,0,0,,Lo sto facendo per te!
+Dialogue: 0,0:08:44.85,0:08:47.84,Default,,0,0,0,,- Ah...\N- L'ha urlato davvero...
+Dialogue: 0,0:08:51.32,0:08:52.84,Default,,0,0,0,,Che?!
+Dialogue: 0,0:08:53.10,0:08:56.43,Default,,0,0,0,,In pratica stai dicendo\Nche mi stai ostacolando per il mio bene?!
+Dialogue: 0,0:08:56.59,0:08:58.85,Default,,0,0,0,,Questo non ha alcun senso!
+Dialogue: 0,0:08:59.95,0:09:02.02,Default,,0,0,0,,Non si sono capiti...
+Dialogue: 0,0:09:02.20,0:09:05.56,Default,,0,0,0,,Ma che accidenti gli è preso a quello?
+Dialogue: 0,0:09:07.16,0:09:10.44,Default,,0,0,0,,Ah! Bentornati, miei piccoli Guerrieri.
+Dialogue: 0,0:09:10.61,0:09:12.23,Default,,0,0,0,,Gabi!
+Dialogue: 0,0:09:12.42,0:09:17.11,Default,,0,0,0,,Sai, Gabi, mi hanno detto\Nche sei la nostra salvatrice!
+Dialogue: 0,0:09:17.30,0:09:18.66,Default,,0,0,0,,Gabi!
+Dialogue: 0,0:09:18.82,0:09:21.37,Default,,0,0,0,,No, io sarei Zofia...
+Dialogue: 0,0:09:22.26,0:09:23.66,Default,,0,0,0,,Che stai combinando?!
+Dialogue: 0,0:09:23.83,0:09:26.62,Default,,0,0,0,,Sei già ubriaco a mezzogiorno\Ne abbracci così una signorina?!
+Dialogue: 0,0:09:26.81,0:09:27.83,Default,,0,0,0,,Stupido vecchiaccio!
+Dialogue: 0,0:09:28.00,0:09:32.59,Default,,0,0,0,,Taci, vecchia rimbambita!\NChe male c'è nell'acclamare un eroe?
+Dialogue: 0,0:09:32.76,0:09:35.80,Default,,0,0,0,,I tuoi complimenti\Nportano solo sfortuna!
+Dialogue: 0,0:09:35.98,0:09:38.93,Default,,0,0,0,,Forza, torna da tua moglie.
+Dialogue: 0,0:09:40.66,0:09:43.81,Default,,0,0,0,,Tenete, questo è per voi.
+Dialogue: 0,0:09:43.99,0:09:48.10,Default,,0,0,0,,Mangiate tanto e crescete grandi\Ne forti come il vicecapo Braun!
+Dialogue: 0,0:09:48.66,0:09:50.31,Default,,0,0,0,,Grazie mille!
+Dialogue: 0,0:09:55.76,0:09:59.28,Default,,0,0,0,,Vogliono davvero fare una dichiarazione\Ndi guerra nel distretto d'internamento?
+Dialogue: 0,0:09:59.74,0:10:01.45,Default,,0,0,0,,Sembra quasi un teatro.
+Dialogue: 0,0:10:02.72,0:10:05.29,Default,,0,0,0,,Sembra che le autorità mondiali\Nverranno qui,
+Dialogue: 0,0:10:05.47,0:10:09.71,Default,,0,0,0,,e dopo il festival tutto il mondo\Npasserà dalla nostra parte.
+Dialogue: 0,0:10:10.94,0:10:12.17,Default,,0,0,0,,E a quel punto,
+Dialogue: 0,0:10:13.27,0:10:16.67,Default,,0,0,0,,tutti i problemi di Marley\Nsaranno risolti, evviva!
+Dialogue: 0,0:10:17.13,0:10:19.01,Default,,0,0,0,,Non credi che funzionerà?
+Dialogue: 0,0:10:19.18,0:10:20.72,Default,,0,0,0,,Perché, tu sì invece?
+Dialogue: 0,0:10:21.28,0:10:25.72,Default,,0,0,0,,Ci saranno pure gli Alleati Mediorientali,\Nche combattevamo fino al mese scorso.
+Dialogue: 0,0:10:26.29,0:10:27.43,Default,,0,0,0,,La mia famiglia
+Dialogue: 0,0:10:27.60,0:10:30.48,Default,,0,0,0,,si è trasferita qui da un distretto\Nestero, so com'è la vita là.
+Dialogue: 0,0:10:30.65,0:10:31.94,Default,,0,0,0,,Era terribile.
+Dialogue: 0,0:10:33.25,0:10:36.86,Default,,0,0,0,,L'ostilità per gli eldiani qui non è\Nniente in confronto alle altre nazioni.
+Dialogue: 0,0:10:37.14,0:10:40.87,Default,,0,0,0,,A maggior ragione allora\Ndobbiamo fare qualcosa.
+Dialogue: 0,0:10:41.43,0:10:45.66,Default,,0,0,0,,Avranno scelto questo posto per permettere\Na tutti di capire meglio noi eldiani.
+Dialogue: 0,0:10:45.84,0:10:48.50,Default,,0,0,0,,Per dimostrare che non siamo demoni.
+Dialogue: 0,0:10:48.91,0:10:50.12,Default,,0,0,0,,Cosa dovremmo fare?
+Dialogue: 0,0:10:50.46,0:10:51.25,Default,,0,0,0,,Sorridi!
+Dialogue: 0,0:10:51.62,0:10:55.13,Default,,0,0,0,,So che vuoi far vedere quanto vali,\Ne ti capisco bene.
+Dialogue: 0,0:10:55.31,0:10:57.46,Default,,0,0,0,,Ma fare tanto il sottomesso\Nnon serve a niente!
+Dialogue: 0,0:10:57.65,0:11:00.97,Default,,0,0,0,,E tu, Zofia, smettila di recitare\Nun personaggio tanto assurdo!
+Dialogue: 0,0:11:01.14,0:11:03.26,Default,,0,0,0,,In realtà questo\Nè il mio vero carattere...
+Dialogue: 0,0:11:03.64,0:11:06.64,Default,,0,0,0,,Sentiamo, tu allora\Nin cosa dovresti migliorare?
+Dialogue: 0,0:11:08.08,0:11:10.98,Default,,0,0,0,,Io vado benissimo così come sono!
+Dialogue: 0,0:11:11.13,0:11:13.40,Default,,0,0,0,,Sono carina e anche intelligente.
+Dialogue: 0,0:11:13.58,0:11:15.65,Default,,0,0,0,,Farò cadere le persone\Npiù importanti ai miei piedi
+Dialogue: 0,0:11:15.82,0:11:18.65,Default,,0,0,0,,e così il mio primato\Nsarà assicurato!
+Dialogue: 0,0:11:19.04,0:11:20.65,Default,,0,0,0,,Sembra quasi un demone.
+Dialogue: 0,0:11:21.76,0:11:25.70,Default,,0,0,0,,La prossima volta che vi mettete\Na tifare per Falco, vi farò piangere.
+Dialogue: 0,0:11:25.88,0:11:27.54,Default,,0,0,0,,È davvero un demone!
+Dialogue: 0,0:11:29.22,0:11:31.04,Default,,0,0,0,,È il comandante Magath.
+Dialogue: 0,0:11:31.64,0:11:32.71,Default,,0,0,0,,Prego.
+Dialogue: 0,0:11:38.36,0:11:41.55,Default,,0,0,0,,Quindi la casa necessita\Ndi estesi lavori di demolizione?
+Dialogue: 0,0:11:41.96,0:11:44.55,Default,,0,0,0,,L'usura del tempo\Nha fatto troppi danni.
+Dialogue: 0,0:11:48.45,0:11:52.31,Default,,0,0,0,,Congratulazioni, signor maresciallo,\Nl'esercito è suo.
+Dialogue: 0,0:11:52.57,0:11:55.52,Default,,0,0,0,,No, l'esercito è dello Stato.
+Dialogue: 0,0:11:55.70,0:11:59.69,Default,,0,0,0,,E il comandante supremo\Ndi questa nazione è lei.
+Dialogue: 0,0:12:01.30,0:12:06.20,Default,,0,0,0,,Non credo che questo sia esatto.\NIo ho solo preso in mano il suo timone.
+Dialogue: 0,0:12:06.80,0:12:10.70,Default,,0,0,0,,Ma adesso capisco perché nessuno dei\Nmiei predecessori ha mai provato a farlo.
+Dialogue: 0,0:12:11.85,0:12:13.25,Default,,0,0,0,,È troppo pesante...
+Dialogue: 0,0:12:14.60,0:12:17.38,Default,,0,0,0,,Vorrei davvero lasciarlo andare\Nil prima possibile...
+Dialogue: 0,0:12:17.55,0:12:20.26,Default,,0,0,0,,Ma le circostanze\Nmi impongono di stare al timone.
+Dialogue: 0,0:12:21.57,0:12:23.68,Default,,0,0,0,,È stato solo un caso.
+Dialogue: 0,0:12:24.07,0:12:27.85,Default,,0,0,0,,Semplicemente, il caso ha voluto che\Nci fossi io ad affrontare tutto questo.
+Dialogue: 0,0:12:28.78,0:12:33.48,Default,,0,0,0,,La casa era sul punto di crollare,\Nma ha ancora dei pilastri utilizzabili.
+Dialogue: 0,0:12:34.54,0:12:36.19,Default,,0,0,0,,E stando a quelle persone,
+Dialogue: 0,0:12:36.37,0:12:39.90,Default,,0,0,0,,sembra che la nostra casa\Nsia già infestata da topi.
+Dialogue: 0,0:12:41.50,0:12:43.11,Default,,0,0,0,,Sei stato bravo, Falco.
+Dialogue: 0,0:12:43.52,0:12:45.74,Default,,0,0,0,,È tutto merito suo, signor Kruger.
+Dialogue: 0,0:12:46.13,0:12:50.74,Default,,0,0,0,,A essere sinceri, non credo comunque\Ndi poter superare Gabi...
+Dialogue: 0,0:12:50.93,0:12:54.00,Default,,0,0,0,,Però adesso sento di poter\Nandare avanti senza esitazioni.
+Dialogue: 0,0:12:54.54,0:12:55.25,Default,,0,0,0,,Capisco.
+Dialogue: 0,0:12:56.44,0:12:58.79,Default,,0,0,0,,In realtà,\Ndovrei essere io a ringraziarti.
+Dialogue: 0,0:12:59.44,0:13:02.67,Default,,0,0,0,,Mi hai aiutato con le mie lettere.
+Dialogue: 0,0:13:03.44,0:13:04.88,Default,,0,0,0,,Mi hai davvero salvato.
+Dialogue: 0,0:13:06.07,0:13:07.01,Default,,0,0,0,,Si figuri...
+Dialogue: 0,0:13:08.66,0:13:09.51,Default,,0,0,0,,Quello...
+Dialogue: 0,0:13:09.93,0:13:11.72,Default,,0,0,0,,Gliel'ha mandato un suo famigliare?
+Dialogue: 0,0:13:12.16,0:13:15.48,Default,,0,0,0,,Pensava che mi sarei annoiato in ospedale.
+Dialogue: 0,0:13:16.04,0:13:18.52,Default,,0,0,0,,È stata dura nelle mie condizioni...
+Dialogue: 0,0:13:19.46,0:13:21.44,Default,,0,0,0,,...ma anch'io devo andare avanti.
+Dialogue: 0,0:13:22.00,0:13:25.78,Default,,0,0,0,,Dopo la fine del festival,\Ntornerò nella mia terra.
+Dialogue: 0,0:13:27.34,0:13:28.78,Default,,0,0,0,,Capisco...
+Dialogue: 0,0:13:30.43,0:13:31.91,Default,,0,0,0,,Sta arrivando un dottore.
+Dialogue: 0,0:13:32.51,0:13:33.95,Default,,0,0,0,,Allora io vado.
+Dialogue: 0,0:13:34.12,0:13:34.96,Default,,0,0,0,,Va bene.
+Dialogue: 0,0:13:37.31,0:13:39.75,Default,,0,0,0,,Posso sedermi accanto a te?
+Dialogue: 0,0:13:39.91,0:13:41.30,Default,,0,0,0,,Sì, prego.
+Dialogue: 0,0:13:42.52,0:13:44.42,Default,,0,0,0,,Con permesso.
+Dialogue: 0,0:13:47.61,0:13:50.43,Default,,0,0,0,,Sono il medico della clinica\Ndel distretto, mi chiamo Jaeger.
+Dialogue: 0,0:13:50.59,0:13:53.56,Default,,0,0,0,,A volte vengo qui a bere il mio tè.
+Dialogue: 0,0:13:54.41,0:13:56.98,Default,,0,0,0,,Molto piacere, mi chiamo Kruger.
+Dialogue: 0,0:13:57.75,0:13:59.94,Default,,0,0,0,,Il piacere è mio, Kruger.
+Dialogue: 0,0:14:00.09,0:14:03.57,Default,,0,0,0,,Tu e il bambino di prima\Nsembrate essere diventati amici.
+Dialogue: 0,0:14:03.73,0:14:04.44,Default,,0,0,0,,Sì.
+Dialogue: 0,0:14:04.53,0:14:08.57,Default,,0,0,0,,Credo che anch'io\Nandrei d'accordo con lui.
+Dialogue: 0,0:14:08.76,0:14:13.45,Default,,0,0,0,,Mi sono seduto spesso su questa panchina\Nin cerca di qualcuno con cui parlare.
+Dialogue: 0,0:14:14.31,0:14:19.04,Default,,0,0,0,,Lo zio di quel giovane era un membro\Ndi spicco dei restaurazionisti di Eldia.
+Dialogue: 0,0:14:19.20,0:14:24.80,Default,,0,0,0,,Tutti loro sono stati mandati in paradiso,\Nassieme ai loro parenti stretti.
+Dialogue: 0,0:14:24.97,0:14:26.59,Default,,0,0,0,,Per proteggere la loro famiglia,
+Dialogue: 0,0:14:26.76,0:14:29.93,Default,,0,0,0,,quel bambino e suo fratello\Nsi offrirono di diventare Guerrieri.
+Dialogue: 0,0:14:30.09,0:14:34.60,Default,,0,0,0,,E quando suo fratello venne scelto\Ncome futuro successore del Gigante Bestia,
+Dialogue: 0,0:14:34.77,0:14:38.23,Default,,0,0,0,,la famiglia Grice\Npoté finalmente dirsi fuori pericolo.
+Dialogue: 0,0:14:39.46,0:14:42.48,Default,,0,0,0,,Perché mi sta raccontando tutto questo?
+Dialogue: 0,0:14:43.58,0:14:46.90,Default,,0,0,0,,Smettila di affidargli\Ncommissioni per tuo conto.
+Dialogue: 0,0:14:47.38,0:14:52.62,Default,,0,0,0,,Se dovessero sospettare di lui, gli sforzi\Ndella famiglia Grice andrebbero in fumo.
+Dialogue: 0,0:14:53.30,0:14:58.75,Default,,0,0,0,,Inoltre, se sei sano di mente\Ndovresti tornare dalla tua famiglia.
+Dialogue: 0,0:14:58.93,0:15:01.42,Default,,0,0,0,,Prima di non poterli incontrare mai più...
+Dialogue: 0,0:15:01.58,0:15:04.75,Default,,0,0,0,,Prima di cadere preda del rimorso...
+Dialogue: 0,0:15:06.38,0:15:08.76,Default,,0,0,0,,Rimorso?
+Dialogue: 0,0:15:12.40,0:15:15.39,Default,,0,0,0,,Sembra che stia parlando\Nper esperienza personale.
+Dialogue: 0,0:15:18.08,0:15:20.64,Default,,0,0,0,,Non passa giorno\Nsenza che i rimorsi mi tormentino.
+Dialogue: 0,0:15:21.05,0:15:25.48,Default,,0,0,0,,Quel giorno, mio figlio uscì dalle mura\Ntrascinando con lui sua sorella.
+Dialogue: 0,0:15:25.65,0:15:28.65,Default,,0,0,0,,Perché ero sempre\Ntroppo severo con lui...
+Dialogue: 0,0:15:29.08,0:15:30.65,Default,,0,0,0,,Volevo che ereditasse la mia clinica...
+Dialogue: 0,0:15:33.66,0:15:37.41,Default,,0,0,0,,Sono stato io!\NÈ stata tutta colpa mia!
+Dialogue: 0,0:15:42.06,0:15:43.29,Default,,0,0,0,,Signor Jaeger!
+Dialogue: 0,0:15:43.69,0:15:45.84,Default,,0,0,0,,La prego di non allontanarsi da solo.
+Dialogue: 0,0:15:46.01,0:15:49.05,Default,,0,0,0,,Sono desolata,\Nmi sono distratta solo un attimo...
+Dialogue: 0,0:15:50.23,0:15:51.93,Default,,0,0,0,,Andiamo, signor Jaeger.
+Dialogue: 0,0:15:52.57,0:15:54.34,Default,,0,0,0,,Vedrà che passerà.
+Dialogue: 0,0:16:01.94,0:16:06.94,Default,,0,0,0,,I TYBUR, DETENTORI DEL GIGANTE MARTELLO,\NSONO ACCLAMATI PER LA RIBELLIONE A ELDIA.
+Dialogue: 0,0:16:13.45,0:16:14.49,Default,,0,0,0,,Incredibile.
+Dialogue: 0,0:16:14.66,0:16:16.53,Default,,0,0,0,,È tutta gente che ho visto sui giornali.
+Dialogue: 0,0:16:16.97,0:16:18.54,Default,,0,0,0,,Niente chiacchiere.
+Dialogue: 0,0:16:18.93,0:16:21.58,Default,,0,0,0,,Dobbiamo servire gli ospiti\Ncome da addestramento.
+Dialogue: 0,0:16:21.76,0:16:23.58,Default,,0,0,0,,Guardate, ci sono bicchieri vuoti.
+Dialogue: 0,0:16:23.77,0:16:24.58,Default,,0,0,0,,Muoversi!
+Dialogue: 0,0:16:33.63,0:16:34.38,Default,,0,0,0,,Falco, la prossima!
+Dialogue: 0,0:16:34.57,0:16:35.55,Default,,0,0,0,,Pronti!
+Dialogue: 0,0:16:38.16,0:16:39.31,Default,,0,0,0,,Ma come?
+Dialogue: 0,0:16:39.49,0:16:41.98,Default,,0,0,0,,I piatti li sta portando\Nun sangue impuro.
+Dialogue: 0,0:16:42.14,0:16:45.23,Default,,0,0,0,,Ah, adesso capisco\Nperché il cibo puzzava.
+Dialogue: 0,0:16:50.34,0:16:52.57,Default,,0,0,0,,S-sono desolato!
+Dialogue: 0,0:16:53.34,0:16:54.49,Default,,0,0,0,,Non alzare la voce.
+Dialogue: 0,0:16:54.67,0:16:57.45,Default,,0,0,0,,M-ma il suo meraviglioso vestito...
+Dialogue: 0,0:16:57.62,0:16:59.95,Default,,0,0,0,,Signora, c'è qualche problema?
+Dialogue: 0,0:17:00.97,0:17:02.54,Default,,0,0,0,,Ah, che imbarazzo!
+Dialogue: 0,0:17:02.72,0:17:07.08,Default,,0,0,0,,Mi sono versata del vino sul vestito\Ne questo ragazzo mi stava aiutando.
+Dialogue: 0,0:17:07.24,0:17:08.25,Default,,0,0,0,,Grazie.
+Dialogue: 0,0:17:08.44,0:17:11.71,Default,,0,0,0,,Ah, che guaio.\NPrego, da questa parte.
+Dialogue: 0,0:17:11.90,0:17:13.72,Default,,0,0,0,,P-perché...?
+Dialogue: 0,0:17:14.40,0:17:17.26,Default,,0,0,0,,Chissà cosa ti avrebbero fatto altrimenti.
+Dialogue: 0,0:17:18.91,0:17:23.02,Default,,0,0,0,,- Stai bene?\N- Sì... Mi ha salvato.
+Dialogue: 0,0:17:23.83,0:17:26.02,Default,,0,0,0,,Anche se sapeva\Nche sono un eldiano...
+Dialogue: 0,0:17:26.37,0:17:28.15,Default,,0,0,0,,Quella donna...
+Dialogue: 0,0:17:28.96,0:17:31.82,Default,,0,0,0,,Viene da Hizuru,\Nuna nazione a oriente.
+Dialogue: 0,0:17:35.51,0:17:37.28,Default,,0,0,0,,Ah, ecco Willy!
+Dialogue: 0,0:17:39.01,0:17:40.24,Default,,0,0,0,,Willy!
+Dialogue: 0,0:17:40.68,0:17:42.91,Default,,0,0,0,,Il discendente dei salvatori!
+Dialogue: 0,0:17:43.09,0:17:45.87,Default,,0,0,0,,Ambasciatore Ogweno,\Nda quanto tempo!
+Dialogue: 0,0:17:46.40,0:17:47.37,Default,,0,0,0,,Nambia!
+Dialogue: 0,0:17:47.63,0:17:49.29,Default,,0,0,0,,L'ultima volta eravamo bambini!
+Dialogue: 0,0:17:49.47,0:17:52.67,Default,,0,0,0,,Sì, da piccoli ti facevo sempre piangere.
+Dialogue: 0,0:17:52.85,0:17:54.76,Default,,0,0,0,,Ti ricordi di questa, Willy?
+Dialogue: 0,0:17:54.94,0:17:58.01,Default,,0,0,0,,Te l'eri fatta cadendo\Nda quell'albero, vero?
+Dialogue: 0,0:18:03.52,0:18:05.93,Default,,0,0,0,,Signore e signori.
+Dialogue: 0,0:18:06.12,0:18:09.02,Default,,0,0,0,,Vi ringrazio tutti\Nper essere qui questa sera.
+Dialogue: 0,0:18:09.62,0:18:12.61,Default,,0,0,0,,Fino a pochi giorni fa, le nostre nazioni\Nerano impegnate in una vergognosa guerra
+Dialogue: 0,0:18:12.77,0:18:15.86,Default,,0,0,0,,per il possesso\Ndi alcune risorse naturali.
+Dialogue: 0,0:18:16.02,0:18:19.66,Default,,0,0,0,,Ma i nemici di ieri\Nsono nemici anche oggi!
+Dialogue: 0,0:18:20.55,0:18:21.91,Default,,0,0,0,,Ah, chiedo scusa.
+Dialogue: 0,0:18:22.07,0:18:24.41,Default,,0,0,0,,I nemici di ieri\Nsono gli amici di oggi!
+Dialogue: 0,0:18:24.86,0:18:28.42,Default,,0,0,0,,Lasciamo che il vino\Nlavi via il passato nel gabinetto!
+Dialogue: 0,0:18:28.95,0:18:32.29,Default,,0,0,0,,Per questo propongo\Nun bel brindisi!
+Dialogue: 0,0:18:32.68,0:18:35.55,Default,,0,0,0,,Alla pace eterna, in alto i calici!
+Dialogue: 0,0:18:38.19,0:18:39.76,Default,,0,0,0,,Grazie mille.
+Dialogue: 0,0:18:39.92,0:18:43.31,Default,,0,0,0,,Le sue battute erano decisamente\Nsofisticate, ambasciatore.
+Dialogue: 0,0:18:43.82,0:18:45.35,Default,,0,0,0,,Tuttavia, pare che i nostri ospiti
+Dialogue: 0,0:18:45.52,0:18:47.77,Default,,0,0,0,,non abbiano capito\Nla lingua comune che ha usato.
+Dialogue: 0,0:18:47.94,0:18:49.65,Default,,0,0,0,,Adesso lasci pure fare a me.
+Dialogue: 0,0:18:49.83,0:18:51.27,Default,,0,0,0,,Bravo, Willy!
+Dialogue: 0,0:18:51.44,0:18:53.23,Default,,0,0,0,,Il discendente dei salvatori!
+Dialogue: 0,0:18:57.09,0:19:02.20,Default,,0,0,0,,Domani, tutti i presenti sono invitati\Nal distretto d'internamento di Liberio.
+Dialogue: 0,0:19:02.93,0:19:06.45,Default,,0,0,0,,Lì abita l'etnia il cui sangue\Nscorre anche nelle mie vene.
+Dialogue: 0,0:19:07.39,0:19:10.09,Default,,0,0,0,,Gli eldiani, i demoni che in passato
+Dialogue: 0,0:19:10.29,0:19:13.38,Default,,0,0,0,,hanno massacrato\Ni popoli delle altre nazioni.
+Dialogue: 0,0:19:14.15,0:19:17.21,Default,,0,0,0,,Marley è stata tormentata da questi demoni\Npiù di ogni altra nazione,
+Dialogue: 0,0:19:17.39,0:19:20.30,Default,,0,0,0,,e per questo li ha usati a sua volta\Nper opprimere i suoi nemici,
+Dialogue: 0,0:19:20.48,0:19:22.34,Default,,0,0,0,,ripetendo le tragedie del passato.
+Dialogue: 0,0:19:23.11,0:19:27.10,Default,,0,0,0,,Capisco bene perché tutti\Nvogliano vedere gli eldiani sterminati.
+Dialogue: 0,0:19:27.49,0:19:30.77,Default,,0,0,0,,Nell'affrontare questo problema\Napparentemente irrisolvibile
+Dialogue: 0,0:19:30.95,0:19:33.86,Default,,0,0,0,,io sono giunto a una risposta.
+Dialogue: 0,0:19:34.17,0:19:38.74,Default,,0,0,0,,E domani, vi svelerò\Nquesta mia risposta sul palcoscenico
+Dialogue: 0,0:19:38.90,0:19:40.61,Default,,0,0,0,,del mio primo spettacolo teatrale!
+Dialogue: 0,0:19:41.47,0:19:45.12,Default,,0,0,0,,Ai grandi drammaturghi\Ne ai testimoni della Storia!
+Dialogue: 0,0:19:45.39,0:19:48.12,Default,,0,0,0,,A drammaturghi e testimoni!
+Dialogue: 0,0:20:02.95,0:20:03.80,Default,,0,0,0,,Ma che...?!
+Dialogue: 0,0:20:16.27,0:20:17.86,Default,,0,0,0,,E questo cos'è?
+Dialogue: 0,0:20:18.04,0:20:18.94,Default,,0,0,0,,Gabi!
+Dialogue: 0,0:20:19.11,0:20:20.36,Default,,0,0,0,,Finalmente sei sveglia!
+Dialogue: 0,0:20:20.70,0:20:22.03,Default,,0,0,0,,Cosa sta succedendo?!
+Dialogue: 0,0:20:22.21,0:20:23.36,Default,,0,0,0,,Il festival!
+Dialogue: 0,0:20:23.55,0:20:26.24,Default,,0,0,0,,Sono arrivate un sacco di persone\Ndall'esterno del distretto,
+Dialogue: 0,0:20:26.41,0:20:29.12,Default,,0,0,0,,e hanno aperto tutte queste bancarelle!\NMangia!
+Dialogue: 0,0:20:30.81,0:20:32.54,Default,,0,0,0,,Questo sarebbe il festival?!
+Dialogue: 0,0:20:32.72,0:20:33.92,Default,,0,0,0,,Andiamo!
+Dialogue: 0,0:21:01.34,0:21:03.70,Default,,0,0,0,,Mi fa male la pancia...
+Dialogue: 0,0:21:04.13,0:21:06.57,Default,,0,0,0,,Avresti dovuto moderarti.
+Dialogue: 0,0:21:07.57,0:21:10.41,Default,,0,0,0,,Sarebbe bello se ci fosse\Nun festival così tutti i giorni...
+Dialogue: 0,0:21:12.10,0:21:13.21,Default,,0,0,0,,Già...
+Dialogue: 0,0:21:13.39,0:21:14.87,Default,,0,0,0,,Di recente...
+Dialogue: 0,0:21:15.03,0:21:18.21,Default,,0,0,0,,sono successe un sacco di cose\Nmai accadute prima.
+Dialogue: 0,0:21:18.57,0:21:19.71,Default,,0,0,0,,Sì, è vero.
+Dialogue: 0,0:21:20.40,0:21:21.59,Default,,0,0,0,,Non so perché...
+Dialogue: 0,0:21:22.07,0:21:24.47,Default,,0,0,0,,ma ho come l'impressione\Nche qualcosa stia per cambiare.
+Dialogue: 0,0:21:25.74,0:21:26.84,Default,,0,0,0,,Sì.
+Dialogue: 0,0:21:27.70,0:21:28.64,Default,,0,0,0,,Hai ragione.
+Dialogue: 0,0:22:34.72,0:22:36.32,Default,,0,0,0,,Vi siete divertiti?
+Dialogue: 0,0:22:36.41,0:22:37.12,Default,,0,0,0,,Eh?
+Dialogue: 0,0:22:37.49,0:22:38.54,Default,,0,0,0,,Dov'è Falco?
+Dialogue: 0,0:22:39.52,0:22:42.50,Default,,0,0,0,,È corso via poco fa dicendo\Ndi aver visto qualcuno che conosce.
+Dialogue: 0,0:22:43.81,0:22:45.38,Default,,0,0,0,,Non finirà nei guai?
+Dialogue: 0,0:22:45.55,0:22:48.51,Default,,0,0,0,,Su, non fare il guastafeste proprio oggi.
+Dialogue: 0,0:22:48.89,0:22:50.39,Default,,0,0,0,,Quanta gente...
+Dialogue: 0,0:22:50.56,0:22:53.10,Default,,0,0,0,,Ah, eccolo di ritorno.
+Dialogue: 0,0:22:53.26,0:22:54.35,Default,,0,0,0,,Vicecapo Braun!
+Dialogue: 0,0:22:55.12,0:22:57.06,Default,,0,0,0,,Dov'eri sparito?!
+Dialogue: 0,0:22:57.83,0:22:59.27,Default,,0,0,0,,Può venire un attimo?
+Dialogue: 0,0:22:59.59,0:23:00.77,Default,,0,0,0,,Proprio ora?
+Dialogue: 0,0:23:00.94,0:23:04.65,Default,,0,0,0,,Non dovrebbero esserci problemi,\Nc'è ancora del tempo prima dell'inizio.
+Dialogue: 0,0:23:05.63,0:23:06.74,Default,,0,0,0,,Per di qua!
+Dialogue: 0,0:23:07.09,0:23:08.65,Default,,0,0,0,,Cos'è successo?
+Dialogue: 0,0:23:09.30,0:23:11.16,Default,,0,0,0,,Lo capirà quando arriveremo!
+Dialogue: 0,0:23:15.64,0:23:16.66,Default,,0,0,0,,Qui dentro.
+Dialogue: 0,0:23:17.89,0:23:18.79,Default,,0,0,0,,Va bene.
+Dialogue: 0,0:23:22.81,0:23:23.96,Default,,0,0,0,,Eccoci qui!
+Dialogue: 0,0:23:25.77,0:23:26.80,Default,,0,0,0,,Ciao.
+Dialogue: 0,0:23:26.99,0:23:29.34,Default,,0,0,0,,Sono quattro anni\Nche non ci vediamo, Reiner.
+Dialogue: 0,0:23:35.62,0:23:36.51,Default,,0,0,0,,Eren.
+Dialogue: 0,0:23:39.98,0:23:40.68,Default,,0,0,0,,ANTICIPAZIONI
+Dialogue: 0,0:23:40.77,0:23:43.98,Default,,0,0,0,,In una cantina buia,\NReiner si ritrova davanti Eren.
+Dialogue: 0,0:23:44.29,0:23:46.94,Default,,0,0,0,,Mentre il discorso di Willy\Ngetta la folla nella confusione,
+Dialogue: 0,0:23:47.59,0:23:51.99,Default,,0,0,0,,Eren proferisce le seguenti parole:\N"io sono come te".
+Dialogue: 0,0:23:52.51,0:23:54.99,Default,,0,0,0,,Prossimo episodio:\N"Dichiarazione di guerra".

@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00C2C2C2,&H000000FF,&H00262626,&H00505050,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0031,0010,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H327D0CB6,&H002971C2,-1,0,0,0,100,100,0,0,1,3,0,5,0041,0062,0110,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_TitleEp,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Arial,18,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0070,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.18,0:00:02.23,Gen_Main,,0000,0000,0000,,Falco.
+Dialogue: 0,0:00:03.44,0:00:04.94,Gen_Main,,0000,0000,0000,,¿Adónde vas a estas horas?
+Dialogue: 0,0:00:05.56,0:00:07.06,Gen_Main,,0000,0000,0000,,Olvidé algo.
+Dialogue: 0,0:00:07.36,0:00:09.73,Gen_Main,,0000,0000,0000,,Voy a buscarlo al cuartel.
+Dialogue: 0,0:00:10.15,0:00:11.19,Gen_Main,,0000,0000,0000,,Si me disculpas…
+Dialogue: 0,0:00:17.24,0:00:20.20,Gen_Main,,0000,0000,0000,,Quiero pedirte un favor, Falco.
+Dialogue: 0,0:00:20.54,0:00:22.71,Gen_Main,,0000,0000,0000,,¿Qué desea, señor Krueger?
+Dialogue: 0,0:00:23.87,0:00:25.79,Gen_Main,,0000,0000,0000,,Quiero enviar una carta,
+Dialogue: 0,0:00:26.46,0:00:29.96,Gen_Main,,0000,0000,0000,,pero si la envío desde aquí\Nla revisarán.
+Dialogue: 0,0:00:30.34,0:00:31.59,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:31.71,0:00:34.59,Gen_Main,,0000,0000,0000,,Descubrirán que estoy fingiendo.
+Dialogue: 0,0:00:34.93,0:00:37.68,Gen_Main,,0000,0000,0000,,Por eso quiero que la lleves\Na un buzón de fuera.
+Dialogue: 0,0:00:37.93,0:00:39.01,Gen_Main,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:00:39.60,0:00:40.81,Gen_Main,,0000,0000,0000,,¿Es para su familia?
+Dialogue: 0,0:00:41.35,0:00:42.48,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:42.81,0:00:46.27,Gen_Main,,0000,0000,0000,,Solo quiero decirles que estoy aquí\Ny que estoy bien.
+Dialogue: 0,0:02:21.99,0:02:27.00,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}De mano en mano
+Dialogue: 0,0:02:32.04,0:02:33.84,Gen_Main,,0000,0000,0000,,¿Qué es ese ruido?
+Dialogue: 0,0:02:34.13,0:02:36.96,Gen_Main,,0000,0000,0000,,Llegó la familia Tybur.
+Dialogue: 0,0:02:37.26,0:02:38.47,Gen_Main,,0000,0000,0000,,¿Cómo dices?
+Dialogue: 0,0:02:43.10,0:02:44.89,Gen_Main,,0000,0000,0000,,No son del ejército de Marley.
+Dialogue: 0,0:02:45.31,0:02:47.73,Gen_Main,,0000,0000,0000,,Son escoltas de los Tybur.
+Dialogue: 0,0:02:49.06,0:02:50.06,Gen_Main,,0000,0000,0000,,Adelante.
+Dialogue: 0,0:02:51.65,0:02:52.73,Gen_Main,,0000,0000,0000,,Disculpen, señores.
+Dialogue: 0,0:02:53.73,0:02:56.73,Gen_Main,,0000,0000,0000,,Soy Willy, el cabeza de familia\Nde los Tybur.
+Dialogue: 0,0:02:57.48,0:03:00.28,Gen_Main,,0000,0000,0000,,Theo Magath,\Ncapitán del cuerpo de guerreros.
+Dialogue: 0,0:03:00.70,0:03:03.95,Gen_Main,,0000,0000,0000,,Es un honor conocerlo, señor Tybur.
+Dialogue: 0,0:03:04.28,0:03:06.24,Gen_Main,,0000,0000,0000,,Lo mismo digo, capitán Magath.
+Dialogue: 0,0:03:06.58,0:03:10.66,Gen_Main,,0000,0000,0000,,Permítame presentarle a mi familia.
+Dialogue: 0,0:03:17.38,0:03:20.47,Gen_Main,,0000,0000,0000,,Lidera a los guerreros\Ndesde que se formó el cuerpo.
+Dialogue: 0,0:03:20.93,0:03:25.14,Gen_Main,,0000,0000,0000,,¿Sabe ya quién es\Nel titán martillo de guerra?
+Dialogue: 0,0:03:25.47,0:03:27.39,Gen_Main,,0000,0000,0000,,No tengo ni la más mínima idea.
+Dialogue: 0,0:03:28.10,0:03:31.02,Gen_Main,,0000,0000,0000,,Ni siquiera sé si realmente vino.
+Dialogue: 0,0:03:32.94,0:03:35.40,Gen_Main,,0000,0000,0000,,Es muy prudente, tal y como dicen.
+Dialogue: 0,0:03:36.15,0:03:38.03,Gen_Main,,0000,0000,0000,,Sí que vino.
+Dialogue: 0,0:03:38.78,0:03:41.78,Gen_Main,,0000,0000,0000,,El titán martillo de guerra\Nestá entre nosotros.
+Dialogue: 0,0:03:48.16,0:03:51.04,Gen_Main,,0000,0000,0000,,Vine a ver la estatua de Helos.
+Dialogue: 0,0:03:51.79,0:03:56.17,Gen_Main,,0000,0000,0000,,Hace cien años venció al demonio\Npese a ser humano.
+Dialogue: 0,0:03:56.29,0:04:01.05,Gen_Main,,0000,0000,0000,,Helos es el héroe de Marley\Nque salvó el mundo.
+Dialogue: 0,0:04:01.84,0:04:03.55,Gen_Main,,0000,0000,0000,,Fue magnífico.
+Dialogue: 0,0:04:03.93,0:04:07.01,Gen_Main,,0000,0000,0000,,Valiente, hermoso y sin heridas.
+Dialogue: 0,0:04:07.51,0:04:10.35,Gen_Main,,0000,0000,0000,,Es como la propia alma de Marley.
+Dialogue: 0,0:04:10.64,0:04:12.31,Gen_Main,,0000,0000,0000,,En efecto.
+Dialogue: 0,0:04:12.85,0:04:14.94,Gen_Main,,0000,0000,0000,,La estatua está hueca.
+Dialogue: 0,0:04:16.61,0:04:19.15,Gen_Main,,0000,0000,0000,,Qué estricto es, capitán.
+Dialogue: 0,0:04:19.61,0:04:23.70,Gen_Main,,0000,0000,0000,,Se rumorea que esperan\Nreimplementar el reclutamiento forzoso.
+Dialogue: 0,0:04:23.99,0:04:28.62,Gen_Main,,0000,0000,0000,,La "guerra de los marleyenses"\Nsolo es tal en el periódico.
+Dialogue: 0,0:04:28.95,0:04:32.71,Gen_Main,,0000,0000,0000,,Está bien que obtengan territorio\Ncon tan solo leer.
+Dialogue: 0,0:04:33.29,0:04:39.30,Gen_Main,,0000,0000,0000,,Sobre todo si los que reciben las balas\Nson descendientes del demonio.
+Dialogue: 0,0:04:40.17,0:04:45.09,Gen_Main,,0000,0000,0000,,Pero aunque las balas rozaran\Nlos oídos de los marleyenses,
+Dialogue: 0,0:04:45.26,0:04:49.76,Gen_Main,,0000,0000,0000,,tampoco frenarían el avance\Nde la guerra hasta autodestruirse.
+Dialogue: 0,0:04:53.60,0:04:57.48,Gen_Main,,0000,0000,0000,,Si hubiera alguien\Nmoviendo los hilos de Marley,
+Dialogue: 0,0:04:57.77,0:04:59.52,Gen_Main,,0000,0000,0000,,le diría que ya es tarde.
+Dialogue: 0,0:05:01.36,0:05:04.03,Gen_Main,,0000,0000,0000,,No tiene piedad, capitán.
+Dialogue: 0,0:05:04.36,0:05:05.61,Gen_Main,,0000,0000,0000,,Me deja sin palabras.
+Dialogue: 0,0:05:06.24,0:05:10.12,Gen_Main,,0000,0000,0000,,Como sospecha, la familia Tybur\Ntiene autoridad en este país.
+Dialogue: 0,0:05:11.16,0:05:16.50,Gen_Main,,0000,0000,0000,,Pero fue Marley quien eligió\Nel camino del militarismo.
+Dialogue: 0,0:05:17.21,0:05:21.75,Gen_Main,,0000,0000,0000,,Nosotros le ofrecimos libertad\Ny poder como expiación.
+Dialogue: 0,0:05:22.46,0:05:26.01,Gen_Main,,0000,0000,0000,,Aunque eso llevó a Eldia y a Marley\Nhacia las sombras.
+Dialogue: 0,0:05:26.38,0:05:28.72,Gen_Main,,0000,0000,0000,,Los Tybur somos responsables.
+Dialogue: 0,0:05:29.43,0:05:34.18,Gen_Main,,0000,0000,0000,,Pretendo revelarlo todo ante el mundo.
+Dialogue: 0,0:05:34.81,0:05:37.44,Gen_Main,,0000,0000,0000,,No mentí. Vine a ver la estatua.
+Dialogue: 0,0:05:37.77,0:05:40.81,Gen_Main,,0000,0000,0000,,Marley necesita un héroe de nuevo.
+Dialogue: 0,0:05:41.77,0:05:46.45,Gen_Main,,0000,0000,0000,,Theo Magath, ¿estrecharás\Nmi mano de nuevo?
+Dialogue: 0,0:05:57.12,0:05:58.58,Gen_Main,,0000,0000,0000,,Buenos días, Pocco.
+Dialogue: 0,0:06:00.67,0:06:02.96,Gen_Main,,0000,0000,0000,,¿Qué haces, Pieck?
+Dialogue: 0,0:06:03.34,0:06:05.76,Gen_Main,,0000,0000,0000,,Para mí esto es más cómodo.
+Dialogue: 0,0:06:06.01,0:06:07.30,Gen_Main,,0000,0000,0000,,¿Te asusté?
+Dialogue: 0,0:06:08.59,0:06:11.10,Gen_Main,,0000,0000,0000,,Camina de pie, por favor.
+Dialogue: 0,0:06:11.97,0:06:13.85,Gen_Main,,0000,0000,0000,,Los titanes vendrán por el sur.
+Dialogue: 0,0:06:14.31,0:06:19.40,Gen_Main,,0000,0000,0000,,La parte de la muralla de las montañas\Ndel norte estará menos vigilada.
+Dialogue: 0,0:06:19.65,0:06:21.86,Gen_Main,,0000,0000,0000,,¿Debemos atacar por el norte?
+Dialogue: 0,0:06:22.31,0:06:24.02,Gen_Main,,0000,0000,0000,,Es una opción.
+Dialogue: 0,0:06:24.32,0:06:29.61,Gen_Main,,0000,0000,0000,,No obstante, las naves de mayor tamaño\Nsolo pueden atracar en ciertos muelles.
+Dialogue: 0,0:06:29.95,0:06:31.91,Gen_Main,,0000,0000,0000,,Si queremos aprovecharlas…
+Dialogue: 0,0:06:32.07,0:06:33.53,Gen_Main,,0000,0000,0000,,¿Atacamos por el sur?
+Dialogue: 0,0:06:33.83,0:06:37.41,Gen_Main,,0000,0000,0000,,Ya perdimos las naves de reconocimiento.
+Dialogue: 0,0:06:37.66,0:06:39.79,Gen_Main,,0000,0000,0000,,El enemigo estará centrado en esa zona.
+Dialogue: 0,0:06:40.12,0:06:42.58,Gen_Main,,0000,0000,0000,,Y es posible que destruyeran el muelle.
+Dialogue: 0,0:06:42.75,0:06:44.92,Gen_Main,,0000,0000,0000,,¿Adónde quieres llegar?
+Dialogue: 0,0:06:45.42,0:06:48.97,Gen_Main,,0000,0000,0000,,Simplemente\Nofrezco la información que tengo.
+Dialogue: 0,0:06:49.13,0:06:50.59,Gen_Main,,0000,0000,0000,,Es suficiente.
+Dialogue: 0,0:06:51.01,0:06:54.01,Gen_Main,,0000,0000,0000,,Fue un error\Ndejar que hablara un eldiano.
+Dialogue: 0,0:06:58.68,0:07:01.56,Gen_Main,,0000,0000,0000,,La operación de la Isla Paradis va bien.
+Dialogue: 0,0:07:02.15,0:07:05.02,Gen_Main,,0000,0000,0000,,Nuestros superiores fueron muy sabios.
+Dialogue: 0,0:07:05.73,0:07:08.44,Gen_Main,,0000,0000,0000,,Veamos qué plan nos hacen llevar a cabo.
+Dialogue: 0,0:07:08.86,0:07:13.57,Gen_Main,,0000,0000,0000,,Podrían dejarlo todo\Nen manos de cuatro niños.
+Dialogue: 0,0:07:20.41,0:07:21.83,Gen_Main,,0000,0000,0000,,La adelantó.
+Dialogue: 0,0:07:22.29,0:07:23.88,Gen_Main,,0000,0000,0000,,Falco adelantó a Gabi.
+Dialogue: 0,0:07:28.92,0:07:31.34,Gen_Main,,0000,0000,0000,,Se emociona mucho por ganar una vez.
+Dialogue: 0,0:07:31.72,0:07:34.39,Gen_Main,,0000,0000,0000,,No tiene ni idea de cómo me siento.
+Dialogue: 0,0:07:34.93,0:07:38.02,Gen_Main,,0000,0000,0000,,Aunque ahora lo haga de maravilla,
+Dialogue: 0,0:07:38.18,0:07:40.31,Gen_Main,,0000,0000,0000,,Gabi seguirá siendo la favorita.
+Dialogue: 0,0:07:41.35,0:07:43.60,Gen_Main,,0000,0000,0000,,¿Viste el empujón final?
+Dialogue: 0,0:07:44.06,0:07:46.48,Gen_Main,,0000,0000,0000,,¿Qué les pasa hoy, enanos?
+Dialogue: 0,0:07:47.02,0:07:49.23,Gen_Main,,0000,0000,0000,,Falco le ganó a Gabi por primera vez.
+Dialogue: 0,0:07:49.40,0:07:51.20,Gen_Main,,0000,0000,0000,,¿Tuvo mejores calificaciones?
+Dialogue: 0,0:07:51.36,0:07:53.53,Gen_Main,,0000,0000,0000,,No. Ganó una carrera.
+Dialogue: 0,0:07:53.95,0:07:55.78,Gen_Main,,0000,0000,0000,,¡Es un logro histórico!
+Dialogue: 0,0:07:56.16,0:07:59.33,Gen_Main,,0000,0000,0000,,Para ya. Qué vergüenza.
+Dialogue: 0,0:07:59.50,0:08:00.95,Gen_Main,,0000,0000,0000,,¡Eso es increíble!
+Dialogue: 0,0:08:01.12,0:08:03.37,Gen_Main,,0000,0000,0000,,Serás el próximo acorazado.
+Dialogue: 0,0:08:05.83,0:08:09.00,Gen_Main,,0000,0000,0000,,¡No creas que estás a mi nivel\Npor tan poco!
+Dialogue: 0,0:08:09.30,0:08:12.34,Gen_Main,,0000,0000,0000,,¡Yo contribuí a la patria en combate!
+Dialogue: 0,0:08:13.88,0:08:15.22,Gen_Main,,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:08:16.05,0:08:19.85,Gen_Main,,0000,0000,0000,,Pero el ejército aún no anunció\Nquién lo heredará.
+Dialogue: 0,0:08:20.31,0:08:23.35,Gen_Main,,0000,0000,0000,,Haré todo lo que pueda\Nhasta que lo anuncien.
+Dialogue: 0,0:08:25.48,0:08:29.07,Gen_Main,,0000,0000,0000,,Se está haciendo el héroe.
+Dialogue: 0,0:08:29.44,0:08:32.49,Gen_Main,,0000,0000,0000,,¡Tu hermano ya heredará al bestia!
+Dialogue: 0,0:08:32.65,0:08:34.40,Gen_Main,,0000,0000,0000,,¡Serán honorables marleyenses!
+Dialogue: 0,0:08:34.78,0:08:37.03,Gen_Main,,0000,0000,0000,,¿Por qué te esfuerzas tanto?
+Dialogue: 0,0:08:42.33,0:08:43.66,Gen_Main,,0000,0000,0000,,¡Por ti!
+Dialogue: 0,0:08:45.00,0:08:46.00,Gen_Main,,0000,0000,0000,,Vaya…
+Dialogue: 0,0:08:46.17,0:08:47.79,Gen_Main,,0000,0000,0000,,Lo dijo alto y claro.
+Dialogue: 0,0:08:53.26,0:08:56.55,Gen_Main,,0000,0000,0000,,¿Crees que meterte en mi camino\Nes ayudarme?
+Dialogue: 0,0:08:56.76,0:08:58.72,Gen_Main,,0000,0000,0000,,¡No entiendo nada!
+Dialogue: 0,0:09:00.01,0:09:02.22,Gen_Main,,0000,0000,0000,,No lo entendió.
+Dialogue: 0,0:09:02.35,0:09:05.56,Gen_Main,,0000,0000,0000,,¿Qué problema tiene ese idiota?
+Dialogue: 0,0:09:07.31,0:09:10.57,Gen_Main,,0000,0000,0000,,Bienvenidos, pequeños guerreros.
+Dialogue: 0,0:09:10.77,0:09:14.28,Gen_Main,,0000,0000,0000,,¡Gabi! Lo sé todo, Gabi.
+Dialogue: 0,0:09:14.40,0:09:18.87,Gen_Main,,0000,0000,0000,,¡Eres nuestra salvadora, Gabi!
+Dialogue: 0,0:09:19.03,0:09:21.33,Gen_Main,,0000,0000,0000,,Soy Zofia.
+Dialogue: 0,0:09:22.41,0:09:23.83,Gen_Main,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:09:24.00,0:09:28.17,Gen_Main,,0000,0000,0000,,¡No vayas abrazando a las chicas\Nmientras estás ebrio, viejo!
+Dialogue: 0,0:09:28.33,0:09:30.21,Gen_Main,,0000,0000,0000,,¡Cállate, momia!
+Dialogue: 0,0:09:30.34,0:09:32.80,Gen_Main,,0000,0000,0000,,¿Qué tiene de malo alabar a una heroína?
+Dialogue: 0,0:09:32.96,0:09:35.97,Gen_Main,,0000,0000,0000,,Tus halagos solo le traerán mala suerte.
+Dialogue: 0,0:09:36.26,0:09:38.89,Gen_Main,,0000,0000,0000,,Vuelve con tu madre.
+Dialogue: 0,0:09:40.72,0:09:43.77,Gen_Main,,0000,0000,0000,,Ustedes llévense esto.
+Dialogue: 0,0:09:44.18,0:09:48.06,Gen_Main,,0000,0000,0000,,Coman mucho para ser tan grandes\Ncomo el oficial Braun.
+Dialogue: 0,0:09:48.73,0:09:50.23,Gen_Main,,0000,0000,0000,,¡Muchas gracias!
+Dialogue: 0,0:09:55.94,0:09:59.28,Gen_Main,,0000,0000,0000,,¿De verdad van a declarar\Nla guerra aquí?
+Dialogue: 0,0:09:59.74,0:10:01.41,Gen_Main,,0000,0000,0000,,Parece un teatro.
+Dialogue: 0,0:10:02.91,0:10:07.50,Gen_Main,,0000,0000,0000,,Dicen que si celebran ese festival\Ncon gente importante de todo el mundo,
+Dialogue: 0,0:10:07.66,0:10:09.67,Gen_Main,,0000,0000,0000,,ganaremos muchos aliados.
+Dialogue: 0,0:10:10.92,0:10:12.34,Gen_Main,,0000,0000,0000,,Entonces…
+Dialogue: 0,0:10:13.38,0:10:16.67,Gen_Main,,0000,0000,0000,,¡se resolverán\Ntodos los problemas de Marley!
+Dialogue: 0,0:10:17.17,0:10:18.93,Gen_Main,,0000,0000,0000,,¿Crees que es imposible?
+Dialogue: 0,0:10:19.30,0:10:20.68,Gen_Main,,0000,0000,0000,,¿Tú no?
+Dialogue: 0,0:10:21.43,0:10:25.22,Gen_Main,,0000,0000,0000,,Hace medio mes nos matábamos\Ncon la Alianza de Medio Oriente.
+Dialogue: 0,0:10:26.27,0:10:30.40,Gen_Main,,0000,0000,0000,,Mi familia vino\Nde un campo del extranjero.
+Dialogue: 0,0:10:30.69,0:10:32.02,Gen_Main,,0000,0000,0000,,Lo pasamos mal.
+Dialogue: 0,0:10:33.40,0:10:36.82,Gen_Main,,0000,0000,0000,,Fuera la gente odia aún más\Na los eldianos.
+Dialogue: 0,0:10:37.19,0:10:40.78,Gen_Main,,0000,0000,0000,,Por eso hay que hacer algo.
+Dialogue: 0,0:10:41.45,0:10:45.74,Gen_Main,,0000,0000,0000,,Seguro que eligieron este lugar\Npara que nos entiendan mejor.
+Dialogue: 0,0:10:45.99,0:10:48.46,Gen_Main,,0000,0000,0000,,Para que vean que no somos demonios.
+Dialogue: 0,0:10:48.96,0:10:51.21,Gen_Main,,0000,0000,0000,,-¿Cómo?\N-Sonríe.
+Dialogue: 0,0:10:51.75,0:10:55.25,Gen_Main,,0000,0000,0000,,Entiendo que quieras demostrarles algo,
+Dialogue: 0,0:10:55.42,0:10:57.46,Gen_Main,,0000,0000,0000,,pero no lo lograrás con maldad.
+Dialogue: 0,0:10:57.84,0:11:00.80,Gen_Main,,0000,0000,0000,,Y tú deja de actuar, Zofia.
+Dialogue: 0,0:11:01.22,0:11:03.22,Gen_Main,,0000,0000,0000,,Yo soy así.
+Dialogue: 0,0:11:03.85,0:11:06.60,Gen_Main,,0000,0000,0000,,¿Qué cambiarás tú?
+Dialogue: 0,0:11:08.10,0:11:11.02,Gen_Main,,0000,0000,0000,,Yo puedo ser tal y como soy.
+Dialogue: 0,0:11:11.27,0:11:13.65,Gen_Main,,0000,0000,0000,,Soy linda e inteligente.
+Dialogue: 0,0:11:13.77,0:11:18.69,Gen_Main,,0000,0000,0000,,Me ganaré a gente importante\Npara afianzar mi puesto.
+Dialogue: 0,0:11:19.15,0:11:20.65,Gen_Main,,0000,0000,0000,,Parece un demonio.
+Dialogue: 0,0:11:21.86,0:11:25.70,Gen_Main,,0000,0000,0000,,Si vuelven a favorecer a Falco,\Nlos haré llorar.
+Dialogue: 0,0:11:25.99,0:11:27.49,Gen_Main,,0000,0000,0000,,¡Eres un demonio!
+Dialogue: 0,0:11:29.37,0:11:31.00,Gen_Main,,0000,0000,0000,,Es el capitán Magath.
+Dialogue: 0,0:11:31.58,0:11:32.75,Gen_Main,,0000,0000,0000,,Aquí tiene.
+Dialogue: 0,0:11:38.38,0:11:41.51,Gen_Main,,0000,0000,0000,,Conque se requiere\Nun desmantelamiento a gran escala.
+Dialogue: 0,0:11:41.93,0:11:44.51,Gen_Main,,0000,0000,0000,,Debido al deterioro.
+Dialogue: 0,0:11:48.27,0:11:50.48,Gen_Main,,0000,0000,0000,,Felicidades, mariscal.
+Dialogue: 0,0:11:50.64,0:11:52.27,Gen_Main,,0000,0000,0000,,El ejército es suyo.
+Dialogue: 0,0:11:52.64,0:11:55.56,Gen_Main,,0000,0000,0000,,No. El ejército es del país.
+Dialogue: 0,0:11:55.81,0:11:59.65,Gen_Main,,0000,0000,0000,,Y usted es su comandante.
+Dialogue: 0,0:12:01.28,0:12:03.20,Gen_Main,,0000,0000,0000,,No exactamente.
+Dialogue: 0,0:12:03.53,0:12:06.16,Gen_Main,,0000,0000,0000,,Simplemente soy el que está al timón.
+Dialogue: 0,0:12:06.91,0:12:10.58,Gen_Main,,0000,0000,0000,,Ahora sé por qué ninguno\Nde mis predecesores quiso tomarlo.
+Dialogue: 0,0:12:11.87,0:12:13.25,Gen_Main,,0000,0000,0000,,Es muy pesado.
+Dialogue: 0,0:12:14.62,0:12:17.46,Gen_Main,,0000,0000,0000,,Querría soltarlo de inmediato,
+Dialogue: 0,0:12:17.71,0:12:20.21,Gen_Main,,0000,0000,0000,,pero ahora es necesario sostenerlo.
+Dialogue: 0,0:12:21.59,0:12:23.59,Gen_Main,,0000,0000,0000,,Me tocó a mí.
+Dialogue: 0,0:12:24.09,0:12:27.80,Gen_Main,,0000,0000,0000,,Me tocó por simple casualidad.
+Dialogue: 0,0:12:28.76,0:12:30.97,Gen_Main,,0000,0000,0000,,La casa estaba casi derrumbada,
+Dialogue: 0,0:12:31.14,0:12:33.48,Gen_Main,,0000,0000,0000,,pero quedaban algunos pilares útiles.
+Dialogue: 0,0:12:34.56,0:12:36.23,Gen_Main,,0000,0000,0000,,Y por lo visto,
+Dialogue: 0,0:12:36.48,0:12:39.90,Gen_Main,,0000,0000,0000,,entraron algunos roedores\Nen nuestra casa.
+Dialogue: 0,0:12:41.57,0:12:43.07,Gen_Main,,0000,0000,0000,,Bien hecho, Falco.
+Dialogue: 0,0:12:43.57,0:12:45.78,Gen_Main,,0000,0000,0000,,Gracias a usted, señor Krueger.
+Dialogue: 0,0:12:46.16,0:12:50.70,Gen_Main,,0000,0000,0000,,Dudo que pueda superar a Gabi\Na estas alturas,
+Dialogue: 0,0:12:50.99,0:12:54.04,Gen_Main,,0000,0000,0000,,pero podré seguir avanzando sin dudar.
+Dialogue: 0,0:12:54.50,0:12:55.71,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:12:56.50,0:12:58.79,Gen_Main,,0000,0000,0000,,Soy yo el que debe darte las gracias.
+Dialogue: 0,0:12:59.50,0:13:02.59,Gen_Main,,0000,0000,0000,,Me ayudaste con mis cartas\Nmás de una vez.
+Dialogue: 0,0:13:03.38,0:13:04.84,Gen_Main,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:13:05.80,0:13:06.97,Gen_Main,,0000,0000,0000,,No se merecen.
+Dialogue: 0,0:13:08.64,0:13:11.64,Gen_Main,,0000,0000,0000,,¿Eso se lo envió su familia?
+Dialogue: 0,0:13:12.31,0:13:15.39,Gen_Main,,0000,0000,0000,,Creían que me aburriría en el hospital.
+Dialogue: 0,0:13:15.98,0:13:18.48,Gen_Main,,0000,0000,0000,,Aunque no tengo el cuerpo para jugar.
+Dialogue: 0,0:13:19.48,0:13:21.32,Gen_Main,,0000,0000,0000,,Yo también debo avanzar.
+Dialogue: 0,0:13:21.98,0:13:25.65,Gen_Main,,0000,0000,0000,,Cuando termine el festival,\Nvolveré a casa.
+Dialogue: 0,0:13:27.36,0:13:28.74,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:13:30.37,0:13:31.83,Gen_Main,,0000,0000,0000,,Viene un médico.
+Dialogue: 0,0:13:32.45,0:13:34.91,Gen_Main,,0000,0000,0000,,-Me marcho.\N-Bien.
+Dialogue: 0,0:13:37.46,0:13:39.67,Gen_Main,,0000,0000,0000,,¿Puedo sentarme a tu lado?
+Dialogue: 0,0:13:40.00,0:13:41.25,Gen_Main,,0000,0000,0000,,Adelante.
+Dialogue: 0,0:13:42.55,0:13:44.26,Gen_Main,,0000,0000,0000,,Con permiso.
+Dialogue: 0,0:13:47.68,0:13:50.43,Gen_Main,,0000,0000,0000,,Soy el doctor Jaeger,\Nde la clínica local.
+Dialogue: 0,0:13:50.76,0:13:53.52,Gen_Main,,0000,0000,0000,,Vengo a beber té aquí\Nde vez en cuando.
+Dialogue: 0,0:13:54.43,0:13:56.98,Gen_Main,,0000,0000,0000,,Encantado. Yo soy Krueger.
+Dialogue: 0,0:13:57.77,0:13:59.77,Gen_Main,,0000,0000,0000,,Es un placer, Krueger.
+Dialogue: 0,0:14:00.19,0:14:04.65,Gen_Main,,0000,0000,0000,,-Pareces llevarte bien con ese chico.\N-Sí.
+Dialogue: 0,0:14:04.82,0:14:08.70,Gen_Main,,0000,0000,0000,,Seguro que yo también podría\Ntrabar amistad con él.
+Dialogue: 0,0:14:09.03,0:14:13.41,Gen_Main,,0000,0000,0000,,Me senté en el banco en busca\Nde alguien con quien hablar.
+Dialogue: 0,0:14:14.33,0:14:18.96,Gen_Main,,0000,0000,0000,,El tío del chico era un líder\Ndel movimiento restaurador.
+Dialogue: 0,0:14:19.25,0:14:21.88,Gen_Main,,0000,0000,0000,,Los enviaron al paraíso.
+Dialogue: 0,0:14:22.04,0:14:24.92,Gen_Main,,0000,0000,0000,,Sus familias no fueron una excepción.
+Dialogue: 0,0:14:25.13,0:14:30.05,Gen_Main,,0000,0000,0000,,El chico y su hermano se ofrecieron\Nvoluntarios como guerreros.
+Dialogue: 0,0:14:30.22,0:14:34.72,Gen_Main,,0000,0000,0000,,Su hermano mayor heredará\Nel titán bestia,
+Dialogue: 0,0:14:34.85,0:14:38.10,Gen_Main,,0000,0000,0000,,lo cual trajo paz por fin\Na la familia Grice.
+Dialogue: 0,0:14:39.39,0:14:42.44,Gen_Main,,0000,0000,0000,,¿Por qué me lo cuenta?
+Dialogue: 0,0:14:43.57,0:14:46.82,Gen_Main,,0000,0000,0000,,Deja de pedirle favores al chico.
+Dialogue: 0,0:14:47.53,0:14:52.57,Gen_Main,,0000,0000,0000,,Si sospechan de él, los esfuerzos\Nde su familia no habrán servido de nada.
+Dialogue: 0,0:14:53.33,0:14:55.99,Gen_Main,,0000,0000,0000,,Y si tu mente está sana,
+Dialogue: 0,0:14:56.16,0:14:58.71,Gen_Main,,0000,0000,0000,,vuelve con tu familia.
+Dialogue: 0,0:14:59.04,0:15:01.37,Gen_Main,,0000,0000,0000,,Una vez no puedes verlos…
+Dialogue: 0,0:15:01.79,0:15:04.71,Gen_Main,,0000,0000,0000,,Una vez te arrepientes, ya es tarde.
+Dialogue: 0,0:15:06.42,0:15:08.72,Gen_Main,,0000,0000,0000,,Arrepentirse, ¿eh?
+Dialogue: 0,0:15:12.43,0:15:15.35,Gen_Main,,0000,0000,0000,,Parece que tú te arrepientes de algo.
+Dialogue: 0,0:15:18.22,0:15:20.60,Gen_Main,,0000,0000,0000,,No hay día que no lo haga.
+Dialogue: 0,0:15:21.23,0:15:25.61,Gen_Main,,0000,0000,0000,,Aquel día mi hijo salió\Nde las murallas con su hermana.
+Dialogue: 0,0:15:25.82,0:15:30.65,Gen_Main,,0000,0000,0000,,Le insistí demasiado\Npara que fuera médico.
+Dialogue: 0,0:15:34.03,0:15:37.33,Gen_Main,,0000,0000,0000,,Es culpa mía. Es todo culpa mía.
+Dialogue: 0,0:15:42.12,0:15:45.92,Gen_Main,,0000,0000,0000,,¡No puede salir, señor Jaeger!
+Dialogue: 0,0:15:46.34,0:15:49.09,Gen_Main,,0000,0000,0000,,Disculpa.\NLo perdimos de vista un segundo.
+Dialogue: 0,0:15:50.51,0:15:51.88,Gen_Main,,0000,0000,0000,,Vamos, señor Jaeger.
+Dialogue: 0,0:15:52.55,0:15:54.30,Gen_Main,,0000,0000,0000,,Se pondrá mejor.
+Dialogue: 0,0:16:01.94,0:16:06.94,Cart_A_Tre,,0000,0000,0000,,{\blur2\3c&H6B4B26&\bord3\pos(49,275)}Información pública actualmente\N{\an4\bord2\blur5\fs18\3c&H000000&}Familia Tybur\N{\fs12}Nobles que se rebelaron contra Eldia hace cien años.\NColaboraron con el héroe marleyense Helos\Ny se considera que lo ayudaron a poner fin a la guerra.\NCustodiaron al titán martillo de guerra desde hace generaciones,\Nlo que les dio autoridad en un país militar como Marley,\Ndonde cuentan con una gran influencia.\NEl cabeza de familia actual es Willy Tybur.
+Dialogue: 0,0:16:13.41,0:16:14.74,Gen_Main,,0000,0000,0000,,Es increíble.
+Dialogue: 0,0:16:14.86,0:16:16.66,Gen_Main,,0000,0000,0000,,Los vi en los periódicos.
+Dialogue: 0,0:16:17.03,0:16:18.54,Gen_Main,,0000,0000,0000,,No hablen.
+Dialogue: 0,0:16:18.91,0:16:21.54,Gen_Main,,0000,0000,0000,,Hagamos lo que nos enseñaron a hacer.
+Dialogue: 0,0:16:21.83,0:16:24.54,Gen_Main,,0000,0000,0000,,Hay copas vacías. ¡A trabajar!
+Dialogue: 0,0:16:33.84,0:16:35.59,Gen_Main,,0000,0000,0000,,-¡Otra, Falco!\N-Toma.
+Dialogue: 0,0:16:38.14,0:16:42.10,Gen_Main,,0000,0000,0000,,Hay niños de sangre sucia\Nllevando platos.
+Dialogue: 0,0:16:42.23,0:16:45.19,Gen_Main,,0000,0000,0000,,Con razón la comida apesta.
+Dialogue: 0,0:16:50.40,0:16:52.74,Gen_Main,,0000,0000,0000,,Lo siento mu…
+Dialogue: 0,0:16:53.49,0:16:54.70,Gen_Main,,0000,0000,0000,,No te alteres.
+Dialogue: 0,0:16:54.82,0:16:57.57,Gen_Main,,0000,0000,0000,,Pero su vestido está…
+Dialogue: 0,0:16:57.74,0:16:59.91,Gen_Main,,0000,0000,0000,,¿Sucede algo, señora?
+Dialogue: 0,0:17:00.95,0:17:02.79,Gen_Main,,0000,0000,0000,,Qué vergüenza.
+Dialogue: 0,0:17:02.91,0:17:06.96,Gen_Main,,0000,0000,0000,,Me tiré el vino en el kimono\Ny le pedí ayuda al chico.
+Dialogue: 0,0:17:07.21,0:17:08.50,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:17:08.67,0:17:11.67,Gen_Main,,0000,0000,0000,,Es terrible. Acompáñeme.
+Dialogue: 0,0:17:11.96,0:17:13.72,Gen_Main,,0000,0000,0000,,¿Por qué me…?
+Dialogue: 0,0:17:14.42,0:17:17.30,Gen_Main,,0000,0000,0000,,A saber lo que te harían.
+Dialogue: 0,0:17:18.93,0:17:20.10,Gen_Main,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:17:20.43,0:17:22.93,Gen_Main,,0000,0000,0000,,Sí. Me ayudó.
+Dialogue: 0,0:17:23.89,0:17:25.98,Gen_Main,,0000,0000,0000,,Pese a saber que soy eldiano.
+Dialogue: 0,0:17:26.94,0:17:28.10,Gen_Main,,0000,0000,0000,,Esa mujer…
+Dialogue: 0,0:17:28.90,0:17:31.82,Gen_Main,,0000,0000,0000,,Viene de Hizuru, al este.
+Dialogue: 0,0:17:35.49,0:17:37.41,Gen_Main,,0000,0000,0000,,Es Willy.
+Dialogue: 0,0:17:38.95,0:17:40.12,Gen_Main,,0000,0000,0000,,¡Willy!
+Dialogue: 0,0:17:40.62,0:17:43.08,Gen_Main,,0000,0000,0000,,El Descendiente del Salvador.
+Dialogue: 0,0:17:43.20,0:17:45.91,Gen_Main,,0000,0000,0000,,¡Embajador Ogweno! Cuánto tiempo.
+Dialogue: 0,0:17:46.37,0:17:49.42,Gen_Main,,0000,0000,0000,,¡Nambia! No nos vemos desde niños.
+Dialogue: 0,0:17:49.58,0:17:52.67,Gen_Main,,0000,0000,0000,,Solía hacerte llorar, ¿eh?
+Dialogue: 0,0:17:52.92,0:17:54.76,Gen_Main,,0000,0000,0000,,¿Te acuerdas de esto, Willy?
+Dialogue: 0,0:17:55.05,0:17:58.01,Gen_Main,,0000,0000,0000,,Te la hiciste al caer de un árbol.
+Dialogue: 0,0:18:03.72,0:18:09.02,Gen_Main,,0000,0000,0000,,Señores y señoras, gracias por venir.
+Dialogue: 0,0:18:09.77,0:18:15.44,Gen_Main,,0000,0000,0000,,Hasta ayer peleábamos por recursos.
+Dialogue: 0,0:18:15.99,0:18:19.61,Gen_Main,,0000,0000,0000,,Pero el enemigo de ayer\Nes el enemigo de hoy.
+Dialogue: 0,0:18:20.49,0:18:21.87,Gen_Main,,0000,0000,0000,,Disculpen.
+Dialogue: 0,0:18:22.24,0:18:24.37,Gen_Main,,0000,0000,0000,,El enemigo de ayer es el amigo de hoy.
+Dialogue: 0,0:18:24.87,0:18:28.37,Gen_Main,,0000,0000,0000,,Dejemos que el agua\Nse lleve el licor y el rencor
+Dialogue: 0,0:18:28.92,0:18:32.25,Gen_Main,,0000,0000,0000,,y brindemos por algo nuevo.
+Dialogue: 0,0:18:32.75,0:18:35.51,Gen_Main,,0000,0000,0000,,¡Por una paz duradera!
+Dialogue: 0,0:18:38.13,0:18:39.63,Gen_Main,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:18:39.93,0:18:43.22,Gen_Main,,0000,0000,0000,,Su humor es muy refinado, embajador.
+Dialogue: 0,0:18:43.76,0:18:47.85,Gen_Main,,0000,0000,0000,,Aunque nuestros invitados\Nno entendieron bien su lengua vehicular.
+Dialogue: 0,0:18:48.06,0:18:49.77,Gen_Main,,0000,0000,0000,,Déjeme continuar a mí.
+Dialogue: 0,0:18:49.98,0:18:53.19,Gen_Main,,0000,0000,0000,,-¡Eso es, Willy!\N-¡Descendiente del Salvador!
+Dialogue: 0,0:18:57.11,0:19:02.07,Gen_Main,,0000,0000,0000,,Mañana están todos\Ninvitados a Liberio.
+Dialogue: 0,0:19:02.99,0:19:06.41,Gen_Main,,0000,0000,0000,,En el pasado se masacró\Na mucha gente allí.
+Dialogue: 0,0:19:07.33,0:19:10.00,Gen_Main,,0000,0000,0000,,Lo hizo gente con mi misma sangre.
+Dialogue: 0,0:19:10.29,0:19:13.38,Gen_Main,,0000,0000,0000,,Era el hogar de los demonios eldianos.
+Dialogue: 0,0:19:14.25,0:19:17.21,Gen_Main,,0000,0000,0000,,Marley fue el reino\Nmás oprimido por ellos
+Dialogue: 0,0:19:17.59,0:19:20.43,Gen_Main,,0000,0000,0000,,y luego conquistó otros países\Ncon esos demonios,
+Dialogue: 0,0:19:20.59,0:19:22.30,Gen_Main,,0000,0000,0000,,repitiendo la tragedia.
+Dialogue: 0,0:19:23.26,0:19:27.06,Gen_Main,,0000,0000,0000,,Comprendo que deseen\Nver el fin de los eldianos.
+Dialogue: 0,0:19:27.64,0:19:33.81,Gen_Main,,0000,0000,0000,,Pero encontré una respuesta\Na esta cuestión interminable.
+Dialogue: 0,0:19:34.31,0:19:40.57,Gen_Main,,0000,0000,0000,,Mañana la revelaré en la que será\Nmi primera obra de teatro.
+Dialogue: 0,0:19:41.61,0:19:45.07,Gen_Main,,0000,0000,0000,,¡Por el dramaturgo\Ny los testigos de la historia!
+Dialogue: 0,0:19:45.53,0:19:48.08,Gen_Main,,0000,0000,0000,,¡Por el dramaturgo y los testigos!
+Dialogue: 0,0:20:02.76,0:20:03.84,Gen_Main,,0000,0000,0000,,¡¿Qué es eso?!
+Dialogue: 0,0:20:16.48,0:20:18.07,Gen_Main,,0000,0000,0000,,¿Qué es todo esto?
+Dialogue: 0,0:20:18.23,0:20:20.32,Gen_Main,,0000,0000,0000,,Por fin despertaste, Gabi.
+Dialogue: 0,0:20:20.69,0:20:22.15,Gen_Main,,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:20:22.32,0:20:23.32,Gen_Main,,0000,0000,0000,,Es un festival.
+Dialogue: 0,0:20:23.57,0:20:28.24,Gen_Main,,0000,0000,0000,,Vino mucha gente de fuera\Ny abrieron puestos de comida.
+Dialogue: 0,0:20:28.41,0:20:29.58,Gen_Main,,0000,0000,0000,,¡Come!
+Dialogue: 0,0:20:30.83,0:20:32.71,Gen_Main,,0000,0000,0000,,¿Esto es un festival?
+Dialogue: 0,0:20:32.87,0:20:33.87,Gen_Main,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:21:01.57,0:21:03.65,Gen_Main,,0000,0000,0000,,Me duele todo.
+Dialogue: 0,0:21:04.15,0:21:06.49,Gen_Main,,0000,0000,0000,,Porque no sabes cuándo parar.
+Dialogue: 0,0:21:07.49,0:21:10.37,Gen_Main,,0000,0000,0000,,Podría haber un festival todos los días.
+Dialogue: 0,0:21:12.04,0:21:13.16,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:13.45,0:21:18.17,Gen_Main,,0000,0000,0000,,Últimamente experimento\Nmuchas cosas nuevas.
+Dialogue: 0,0:21:18.54,0:21:19.71,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:20.55,0:21:24.42,Gen_Main,,0000,0000,0000,,Siento que algo está por cambiar.
+Dialogue: 0,0:21:25.63,0:21:26.80,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:27.59,0:21:28.68,Gen_Main,,0000,0000,0000,,Tienes razón.
+Dialogue: 0,0:22:33.91,0:22:36.45,Gen_Main,,0000,0000,0000,,¿Se divirtieron?
+Dialogue: 0,0:22:36.62,0:22:38.58,Gen_Main,,0000,0000,0000,,¿Dónde está Falco?
+Dialogue: 0,0:22:39.62,0:22:42.46,Gen_Main,,0000,0000,0000,,Se fue porque vio a alguien que conocía.
+Dialogue: 0,0:22:42.79,0:22:45.34,Gen_Main,,0000,0000,0000,,¿Estará bien él solo?
+Dialogue: 0,0:22:45.51,0:22:48.47,Gen_Main,,0000,0000,0000,,No seas tan serio en un día como hoy.
+Dialogue: 0,0:22:48.84,0:22:50.43,Gen_Main,,0000,0000,0000,,Cuánta gente.
+Dialogue: 0,0:22:50.80,0:22:52.80,Gen_Main,,0000,0000,0000,,¿Eh? Ya regresó.
+Dialogue: 0,0:22:53.22,0:22:54.39,Gen_Main,,0000,0000,0000,,¡Oficial Braun!
+Dialogue: 0,0:22:55.18,0:22:57.10,Gen_Main,,0000,0000,0000,,¿Dónde estabas?
+Dialogue: 0,0:22:57.89,0:22:59.23,Gen_Main,,0000,0000,0000,,¿Puedes venir?
+Dialogue: 0,0:22:59.60,0:23:00.69,Gen_Main,,0000,0000,0000,,¿Ahora?
+Dialogue: 0,0:23:01.10,0:23:04.61,Gen_Main,,0000,0000,0000,,¿Por qué no? Aún falta para que empiece.
+Dialogue: 0,0:23:05.53,0:23:06.69,Gen_Main,,0000,0000,0000,,Por aquí.
+Dialogue: 0,0:23:07.15,0:23:08.61,Gen_Main,,0000,0000,0000,,¿Qué es lo que pasa?
+Dialogue: 0,0:23:09.28,0:23:11.11,Gen_Main,,0000,0000,0000,,Ya lo verás.
+Dialogue: 0,0:23:15.54,0:23:16.62,Gen_Main,,0000,0000,0000,,Es aquí.
+Dialogue: 0,0:23:17.79,0:23:18.87,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:23:22.88,0:23:24.00,Gen_Main,,0000,0000,0000,,Está aquí.
+Dialogue: 0,0:23:25.96,0:23:29.34,Gen_Main,,0000,0000,0000,,Hace cuatro años\Nque no nos vemos, Reiner.
+Dialogue: 0,0:23:35.60,0:23:36.93,Gen_Main,,0000,0000,0000,,Eren…
+Dialogue: 0,0:23:36.97,0:23:39.98,Gen_Nota,,0000,0000,0000,,{\pos(449,280)\blur0.6}Continuará
+Dialogue: 0,0:23:39.98,0:23:42.65,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}Avance
+Dialogue: 0,0:23:40.56,0:23:43.65,Gen_Italics,,0000,0000,0000,,Reiner se encuentra con Eren\Nen un sótano oscuro.
+Dialogue: 0,0:23:44.36,0:23:49.11,Gen_Italics,,0000,0000,0000,,Mientras el discurso de Willy\Nconfunde al público, Eren declara:
+Dialogue: 0,0:23:49.49,0:23:51.90,Gen_Italics,,0000,0000,0000,,"Soy como tú".
+Dialogue: 0,0:23:52.53,0:23:54.99,Gen_Main,,0000,0000,0000,,Próximo episodio:\N"Declaración de guerra".
+Dialogue: 0,0:23:52.99,0:23:54.99,Cart_TitleEp,,0000,0000,0000,,{\pos(317,130)}Declaración de guerra
